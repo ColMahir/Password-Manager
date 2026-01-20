@@ -1,29 +1,28 @@
-📌 Password Manager
-
 📂 Check the branches of this repository for the project.
 
-Password Manager is a simple and secure tool to generate, store, and manage passwords.
-You can create strong random passwords or save your own, then view, update, or delete them anytime.
+🔐 Password Manager
 
-🔐 Key Features
+Password Manager is a simple and user-friendly application that helps you generate, save, update, and delete passwords with ease.
+It allows users to securely manage their credentials in one place using a local database.
 
-Generate strong random passwords of custom length
+✨ Features
 
-Save your own passwords with labels (Email, Bank, GitHub, etc.)
+Generate strong random passwords
 
-Full CRUD support: Create, Read, Update, Delete
+Save your own custom passwords
 
-Clean, dark-themed, beginner-friendly interface
+Update existing passwords
 
-Local storage using SQLite
+Delete passwords you no longer need
 
-⚙️ Tech Stack
+Easy-to-use interface
+
+🛠️ Tech Stack
 
 Python
 
-Tkinter (GUI)
+SQLite3 (local database)
 
-SQLite3
+📌 Note
 
-
-~Ali Zubair Shah
+All passwords are stored locally using SQLite for simplicity and offline access.
