@@ -1,5 +1,5 @@
 Check the branches for the project
-📌 Password Manager — Overview 
+ 📌 Password Manager — Overview 
 Password Manager is a secure and user-friendly program that helps you generate, store, and manage passwords with ease.
 Whether you want auto-generated strong passwords or store your own existing credentials,
 this tool lets you organize them and perform full lifecycle operations like retrieve, update, and delete — all in one place.
